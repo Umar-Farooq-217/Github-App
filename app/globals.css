@@ -7,7 +7,7 @@
   padding: 4px 20px;
   border: 2px solid rgb(56, 11, 220);
   border-radius: 10px;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   position: relative;
   z-index: 1;
@@ -35,6 +35,7 @@
 .inp{
   border: none;
   border-radius:10px ;
+  width: min(300px,90%);
  
 }
 
